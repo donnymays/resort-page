@@ -1,5 +1,6 @@
 html {
-  background-color: #ffe0a3;
+  background-color: #282d4f;
+  background-color: ;
 }
 
 body {
@@ -10,31 +11,31 @@ h1 {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 48px;
-  color: #943939;
+  color: #a0204c;
 }
 
 h2 {
   font-family: "Roboto Condensed";
   font-weight: 300;
-  color: #6a2634;
+  color: #ff6c00;
 }
 p {
   font-family: "Roboto Condensed";
   font-weight: 300;
   font-size: 24px;
-  color: #6a2634;
+  color: #ff6c00;
   
 }
 
 a:link {
-  color: #e18237;
+  color: #23103a;
 }
 
 a:visited {
-  color: #943939;
+  color: #a0204c;
 }
 
 a:hover {
-  color: #6a2634;
+  color: #ff6c00;
 }
 
