@@ -1,3 +1,7 @@
+html {
+  background-color: #ffe0a3;
+}
+
 body {
   text-align: center;
 }
@@ -6,14 +10,31 @@ h1 {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 48px;
+  color: #943939;
 }
 
 h2 {
   font-family: "Roboto Condensed";
   font-weight: 300;
+  color: #6a2634;
 }
 p {
   font-family: "Roboto Condensed";
   font-weight: 300;
   font-size: 24px;
+  color: #6a2634;
+  
 }
+
+a:link {
+  color: #e18237;
+}
+
+a:visited {
+  color: #943939;
+}
+
+a:hover {
+  color: #6a2634;
+}
+
