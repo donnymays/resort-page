@@ -1,5 +1,19 @@
+body {
+  text-align: center;
+}
+
 h1 {
   font-family: "Raleway";
   font-weight: 700;
-  text-align: center;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: "Roboto Condensed";
+  font-weight: 300;
+}
+p {
+  font-family: "Roboto Condensed";
+  font-weight: 300;
+  font-size: 24px;
 }
